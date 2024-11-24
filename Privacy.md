@@ -1,52 +1,41 @@
 # Privacy Policy for Retro Progress Tracker
-Last updated: November2024
 
-1. Information Collection and Use
-- We collect geolocation data solely for calculating accurate moon phases based on your location
-- This data is processed locally and is not stored on any servers
-- We collect and validate license keys to provide access to premium features
-- We use Chrome's storage API to save your progress and preferences locally on your device
+Last updated: November 2024
 
-2. Data Collection Details
-Geolocation Data:
-- Used only for moon phase calculations
-- Processed locally within the extension
-- Not stored on servers
-- Can be disabled through Chrome settings
+## Overview
+Retro Progress Tracker is a Chrome extension designed to help users track time with a retro-styled visualization approach. We are committed to protecting your privacy and ensuring transparency in our data practices.
 
-License Information:
-- Activation key validation
-- Installation ID for license verification
-- Stored securely for maintaining your access
+## Data Collection and Storage
+We collect and store the following information:
+- Birthdate: Used for life progress calculation (stored locally in browser)
+- Activation key: Used for license verification
 
-3. How We Use Your Data
-- Geolocation: Local moon phase calculations only
-- Storage: Saving your progress and preferences locally
-- Notifications: Optional progress updates
-- License validation: Verifying your access to premium features
+All progress data is stored locally in your browser using Chrome's storage API. No user activity data is sent to external servers.
 
-4. Data Protection
-- All progress data is stored locally on your device
-- No personal data is stored on our servers
-- License information is securely processed
+## Chrome Permissions
+The extension requires the following permission:
+- **Storage:** Required to save your progress data locally in your browser
+
+## Data Security
+- All data is processed locally within your browser
 - No data is shared with third parties
+- License verification uses secure HTTPS connections
+- All progress tracking data remains on your device
 
-5. Your Rights
-You can:
-- Disable geolocation access in Chrome settings
-- Clear locally stored data at any time
-- Disable notifications
-- Request information about your license data
+## License Verification
+- The only external communication is with api.progresstracker.pro for license key verification
+- During verification, only the activation key is transmitted
+- No personal data is collected or transmitted during this process
 
-6. Contact
-For support or privacy questions:
-Website: progresstracker.pro
-Email: support@progresstracker.pro
+## Features
+- Daily progress tracking
+- Monthly progress with moon phases (calculated using system time)
+- Yearly progress tracking
+- Life progress visualization
+- Project progress tracking
 
-7. Changes to Policy
-We may update this privacy policy as needed. Users will be notified of any significant changes through the extension.
+## Updates to Privacy Policy
+We may update this privacy policy from time to time. Any changes will be reflected on this page with an updated revision date.
 
-8. Security
-We use industry-standard security measures to protect your license information and ensure secure local storage of your data.
-
-Note: This extension requires an activation key purchased through progresstracker.pro to access premium features. The extension itself is free to install, and the payment process is handled externally through our website.
+## Contact
+If you have any questions about this privacy policy, please contact us through the Chrome Web Store support channel.
