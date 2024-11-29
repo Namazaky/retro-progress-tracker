@@ -8,7 +8,7 @@ Retro Progress Tracker is a Chrome extension designed to help users track time w
 ## Data Collection and Storage
 We collect and store the following information:
 - Birthdate: Used for life progress calculation (stored locally in browser)
-- Activation key: Used for license verification
+
 
 All progress data is stored locally in your browser using Chrome's storage API. No user activity data is sent to external servers.
 
@@ -19,13 +19,8 @@ The extension requires the following permission:
 ## Data Security
 - All data is processed locally within your browser
 - No data is shared with third parties
-- License verification uses secure HTTPS connections
 - All progress tracking data remains on your device
 
-## License Verification
-- The only external communication is with api.progresstracker.pro for license key verification
-- During verification, only the activation key is transmitted
-- No personal data is collected or transmitted during this process
 
 ## Features
 - Daily progress tracking
